@@ -17,16 +17,16 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
     3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
 1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
 
-### Template
+
 
 ```markdown
-# IA Generativa 2025/2026: Antecipando e Analisando as Novas Tendências no Mercado de Trabalho com Ferramentas de Inteligência Artificial
+## 🚀 Título:
+# IA Generativa 2025/2026: Antecipando e Analisando as Novas Tendências no Mercado de Trabalho com Ferramentas de Inteligência Artificial 
 
 ## 📒 Descrição:
 Este projeto tem como escopo antecipar e analisar novas tendências do mercado de trabalho utilizando ferramentas de IA Generativa. Através da exploração de dados e insights proporcionados por essas tecnologias, buscamos identificar as transformações que estão moldando o futuro profissional e as habilidades necessárias para se destacar nesse novo cenário.
 
 ## 🤖 Tecnologias Utilizadas:
-
 ##Microsoft Copilot e ChatGPT: Geração de conteúdos multimídia.
 ##GitHub: Armazenamento e controle de versões.
 ##Gamma: Salvamento e compartilhamento de resultados.
@@ -38,7 +38,6 @@ Utilizando o Microsoft Copilot e o ChatGPT, solicitei insights sobre as principa
 "Sugira temas que podem ser explorados e previstos para 2025/2026 sobre o uso das IAs Generativas no mercado de trabalho."
 
 ## 🚀 Resultados:
-Resultados das Pesquisas
 As pesquisas com o Microsoft Copilot e o ChatGPT facilitaram a criação e análise das tendências do mercado de trabalho para 2025/2026. As imagens geradas pelo Gamma, com um estilo próprio, complementaram bem o conteúdo explorado.
 
 ## 💭 Reflexão (Opcional)
