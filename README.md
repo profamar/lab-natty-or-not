@@ -21,29 +21,31 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 
 ```markdown
 ## 🚀 Título:
-# IA Generativa 2025/2026: Antecipando e Analisando as Novas Tendências no Mercado de Trabalho com Ferramentas de Inteligência Artificial 
+# Tendências da IA no Mercado de Trabalho em 2025/2026 
 
 ## 📒 Descrição:
-Este projeto tem como escopo antecipar e analisar novas tendências do mercado de trabalho utilizando ferramentas de IA Generativa. Através da exploração de dados e insights proporcionados por essas tecnologias, buscamos identificar as transformações que estão moldando o futuro profissional e as habilidades necessárias para se destacar nesse novo cenário.
+Este projeto explora as principais tendências relacionadas à Inteligência Artificial no mercado de trabalho, previstas para 2025/2026. As análises incluem previsões sobre a atuação da IA e sua visão geral em diferentes setores do mercado. Ferramentas de IA generativa foram empregadas para identificar e analisar insights relevantes, que foram organizados de forma estruturada. Para garantir clareza e acessibilidade, foi usada uma ferramenta que utiliza inteligência artificial para criar apresentações de forma rápida e eficiente. 
 
 ## 🤖 Tecnologias Utilizadas:
-##Microsoft Copilot e ChatGPT: Geração de conteúdos multimídia.
-##GitHub: Armazenamento e controle de versões.
-##Gamma: Salvamento e compartilhamento de resultados.
+##Microsoft Copilot e ChatGPT: IA generativa para criação de conteúdos e análises sobre o impacto da inteligência artificial no mercado.
+##GitHub: Controle de versões e organização de projetos.
+##GammaAi: Apresentação de resultados em formatos acessíveis e intuitivos.
 
 ## 🧐 Processo de Criação:
-Utilizando o Microsoft Copilot e o ChatGPT, solicitei insights sobre as principais tendências do mercado de trabalho para 2025/2026. Após analisar e comparar os conteúdos mais relevantes, organizei os tópicos selecionados e utilizei o Gamma para criar uma apresentação visual com todas as informações destacadas.
+Utilizando o Microsoft Copilot e o ChatGPT, solicitei insights sobre as principais tendências do mercado de trabalho para 2025/2026. Após analisar e comparar os conteúdos mais relevantes, organizei os tópicos selecionados e utilizei o GammaAi para criar uma apresentação visual com todas as informações destacadas.
 
 ## ✨ Esboço do Prompt:
-"Sugira temas que podem ser explorados e previstos para 2025/2026 sobre o uso das IAs Generativas no mercado de trabalho."
+"Quais temas podem ser explorados e previstos para 2025/2026 em relação ao impacto da inteligência artificial no mercado de trabalho, considerando tendências emergentes, mudanças nos perfis profissionais e novas demandas da força de trabalho?"
 
 ## 🚀 Resultados:
-As pesquisas com o Microsoft Copilot e o ChatGPT facilitaram a criação e análise das tendências do mercado de trabalho para 2025/2026. As imagens geradas pelo Gamma, com um estilo próprio, complementaram bem o conteúdo explorado.
+Os resultados das pesquisas das análises realizadas com o Microsoft Copilot e o ChatGPT foram altamente relevantes, fornecendo insights detalhados sobre as tendências e previsões do impacto da inteligência artificial no mercado de trabalho para 2025/2026. Esses dados serviram como base para criar uma apresentação estruturada e acessível, destacando os principais tópicos identificados durante o projeto.
 
 ## 💭 Reflexão (Opcional)
-Fiquei surpreendida com a velocidade e a variedade de previsões geradas pelas plataformas. É interessante observar como tanto o Microsoft Copilot quanto o ChatGPT oferecem estilos distintos para a criação de conteúdo, o que enriqueceu significativamente o estudo sobre as tendências do mercado de trabalho para 2025/2026. A conclusão final é a de que trabalhar com IA foi desafiador e mostrou como é possível equilibrar criatividade humana com tecnologia.
+Fiquei impressionada com a velocidade e a variedade de previsões geradas pelas plataformas de IA generativas. Observei que tanto o Microsoft Copilot quanto o ChatGPT oferecem estilos distintos para a criação de conteúdo, enriquecendo o estudo sobre as tendências da IA no mercado de trabalho para 2025/2026. A conclusão final é a de que trabalhar com IAs generativas foi desafiador e mostrou como é possível equilibrar criatividade humana com tecnologia.
 ```
-## Links 
+## Links para o conteúdo produzido
+Site: https://tendencias-da-ia-no-merc-bs0xgtb.gamma.site/
+Arquivo:https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:e110c2d4-5058-49df-878c-ffbf2aa41075
 
 
 ### Exemplos e Insigths
