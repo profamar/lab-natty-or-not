@@ -37,6 +37,10 @@ Utilizando o Microsoft Copilot e o ChatGPT, solicitei insights sobre as principa
 ## ✨ Esboço do Prompt:
 "Quais temas podem ser explorados e previstos para 2025/2026 em relação ao impacto da inteligência artificial no mercado de trabalho, considerando tendências emergentes, mudanças nos perfis profissionais e novas demandas da força de trabalho?"
 
+## Links para o conteúdo produzido
+Site: https://tendencias-da-ia-no-merc-bs0xgtb.gamma.site/
+Arquivo:https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:e110c2d4-5058-49df-878c-ffbf2aa41075
+
 ## 🚀 Resultados:
 Os resultados das pesquisas das análises realizadas com o Microsoft Copilot e o ChatGPT foram altamente relevantes, fornecendo insights detalhados sobre as tendências e previsões do impacto da inteligência artificial no mercado de trabalho para 2025/2026. Esses dados serviram como base para criar uma apresentação estruturada e acessível, destacando os principais tópicos identificados durante o projeto.
 
